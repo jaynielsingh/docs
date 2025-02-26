@@ -314,7 +314,7 @@ component towards the bottom of our newly created layout. This component is from
 **Tanstack Router** and renders the child route's content, allowing for nested
 routing while maintaining a consistent layout structure.
 
-Next, we'll have to wire up this layout with `./src/main.tsx`, which an
+Next, we'll have to wire up this layout with `./src/main.tsx`, which is an
 important file that sets up the Tanstack Query client for managing server state
 and the Tanstack Router for handling navigation:
 
